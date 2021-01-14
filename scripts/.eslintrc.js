@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: AGPL-3.0-only
 
 module.exports = {
-  rules: {
+  rule: {
     // We still get the value of this rule, it just allows for dev deps
     'import/no-extraneous-dependencies': [
       'error',
